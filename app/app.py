@@ -10,6 +10,8 @@ What changed from v0.4.0 (the student's Act B diff):
     (L13 throttling, L14 HPA load source).
   * GET /mem?mb=M&hold=S — allocates M MiB of real memory and holds it, so an
     over-limit allocation can be OOMKilled on purpose (L13).
+
+    masti
 All v0.4.0 endpoints (/ /notes /healthz /ready /admin/break) are unchanged.
 """
 
